@@ -361,33 +361,6 @@ contract BonusCloudTokenConfig {
 
     // TotalSupply
     uint256 constant TOTAL_SUPPLY = 7000000000 * DECIMALS_FACTOR;
-
-    // The start date of the fundraiser: 2018-09-04 0:00:00 UTC.
-    uint constant START_DATE = 1536019200;
-
-    // Total number of tokens locked for the BxC core team.
-    uint256 constant TOKENS_LOCKED_CORE_TEAM = 1400 * (10**6) * DECIMALS_FACTOR;
-
-    // Total number of tokens for BxC advisors.
-    uint256 constant TOKENS_LOCKED_ADVISORS = 2100 * (10**6) * DECIMALS_FACTOR;
-
-    // Total number of tokens for BxC advisors A.
-    uint256 constant TOKENS_LOCKED_ADVISORS_A = 350 * (10**6) * DECIMALS_FACTOR;
-
-    // Total number of tokens for BxC advisors B.
-    uint256 constant TOKENS_LOCKED_ADVISORS_B = 350 * (10**6) * DECIMALS_FACTOR;
-
-    // Total number of tokens for BxC advisors C.
-    uint256 constant TOKENS_LOCKED_ADVISORS_C = 700 * (10**6) * DECIMALS_FACTOR;
-
-    // Total number of tokens for BxC advisors D.
-    uint256 constant TOKENS_LOCKED_ADVISORS_D = 700 * (10**6) * DECIMALS_FACTOR;
-
-    // Total number of tokens locked for bxc foundation.
-    uint256 constant TOKEN_FOUNDATION = 700 * (10**6) * DECIMALS_FACTOR;
-
-    // Total number of tokens locked for bounty program.
-    uint256 constant TOKENS_BOUNTY_PROGRAM = 2800 * (10**6) * DECIMALS_FACTOR;
 }
 
 /**
