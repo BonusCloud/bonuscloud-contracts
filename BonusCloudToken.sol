@@ -348,7 +348,7 @@ contract FreezableERC20Token is ERC20Token, Freezable {
  */
 contract BonusCloudTokenConfig {
     // The name of the token.
-    string constant NAME = "Bonus Cloud Token";
+    string constant NAME = "BonusCloud Token";
 
     // The symbol of the token.
     string constant SYMBOL = "BxC";
